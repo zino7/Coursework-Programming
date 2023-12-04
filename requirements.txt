@@ -2,4 +2,5 @@ uk_covid19
 pandas
 matplotlib
 ipywidgets
+IPython
 json
