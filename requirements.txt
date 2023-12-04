@@ -1,5 +1,5 @@
-Cov19API
- pandas
+uk_covid19
+pandas
 matplotlib
 ipywidgets
 IPython.display
