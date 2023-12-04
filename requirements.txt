@@ -1,0 +1,6 @@
+Cov19API
+ pandas
+matplotlib
+ipywidgets
+IPython.display
+json
