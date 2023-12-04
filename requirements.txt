@@ -1,6 +1,6 @@
-uk_covid19
-pandas
-matplotlib
-ipywidgets
-IPython
-json
+from uk_covid19 import Cov19API
+import pandas as pd
+import matplotlib.pyplot as plt
+import ipywidgets as widgets
+from IPython.display import display, HTML
+import json
